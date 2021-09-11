@@ -21,3 +21,5 @@ METHODS: backgroundmenu-sets the background graphics.
          checkcollision-checks collision of the snake cells.
          gameover-sets the game over screen.
          draw-draws the current grid
+         
+GAME AUDIO(background music)-Unpack in gameaudio.rar . Used with the StdAudio library
