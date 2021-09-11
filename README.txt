@@ -1,4 +1,5 @@
 INTRODUCTION:
+This is my first project in Java.
 My program is an offset of the Snake Xenzia game.
 
 HOW THE GAME WORKS:
