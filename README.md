@@ -1,6 +1,6 @@
 INTRODUCTION:
 This is my first project in Java.
-My program is an offset of the Snake Xenzia game.
+My program is an offset of the Snake Xenzia Rewind 97 Retro game.
 
 HOW THE GAME WORKS:
 At the start menu, the player chooses a food type by clicking on the corresponding box.
